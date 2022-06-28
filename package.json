@@ -1,0 +1,16 @@
+{
+    "name": "microservicios3",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/Adapters/index.js",
+    "scripts": {
+        "dev": "node src/Adapters/index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bull": "^4.8.4",
+        "dotenv": "^16.0.1"
+    }
+}
